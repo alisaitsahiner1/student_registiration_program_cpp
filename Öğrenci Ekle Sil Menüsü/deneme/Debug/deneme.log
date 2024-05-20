@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (deneme.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  deneme.cpp
+  deneme.vcxproj -> C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\Öğrenci Ekle Sil Menüsü\Debug\Öğrenci Ekle Sil Menüsü.exe
